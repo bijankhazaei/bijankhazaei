@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bijankhazaei
-- 👀 I’m interested in PHP, Pyhton, JS, Dart, Rust
-- 🌱 I’m currently learning Rust, Python
+- 👀 I’m interested in PHP, Pyhton, JS, Dart, GO
+- 🌱 I’m trying to get deeper into the Go, Python, CI/CD, Kubernetes, Elasticsearch
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me bijankhazaei@gmail.com
 
